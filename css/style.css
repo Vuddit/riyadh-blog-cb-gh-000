@@ -9,7 +9,7 @@ body {
   background: url(../images/backgrounds/architecture.jpg) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  font-family: Calibri, Arial, sans-serif;
+  font-family: monospace, Arial, sans-serif;
   font-size: 100%;
 }
 
